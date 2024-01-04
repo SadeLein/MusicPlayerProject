@@ -1,0 +1,3 @@
+/Users/gabehernandez/CLionProjects/MusicPlayer(Mk2)/cmake-build-debug/CMakeFiles/MusicPlayer_Mk2_.dir
+/Users/gabehernandez/CLionProjects/MusicPlayer(Mk2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabehernandez/CLionProjects/MusicPlayer(Mk2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
