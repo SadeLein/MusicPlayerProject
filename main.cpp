@@ -15,7 +15,7 @@ void display_song(std::string title, std::string artist, int duration, double vo
 
     std::cout << "I'm forced to play this song by " << artist << ", it's called '"
     << title << "'." << std::endl;
-
+// hi
     // Using if statement to check duration
 
     std::cout << "It's " << format_duration(duration) << " long." << std::endl;
